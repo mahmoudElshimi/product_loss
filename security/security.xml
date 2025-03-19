@@ -1,0 +1,15 @@
+<odoo>
+    <!-- Define User Groups -->
+    <record id="group_presales_user" model="res.groups">
+        <field name="name">PreSales User</field>
+        <field name="category_id" ref="base.module_category_sales"/>
+    </record>
+    <record id="group_sales_user" model="res.groups">
+        <field name="name">Sales User</field>
+        <field name="category_id" ref="base.module_category_sales"/>
+    </record>
+    <record id="group_sales_manager" model="res.groups">
+        <field name="name">Sales Manager</field>
+        <field name="category_id" ref="base.module_category_sales"/>
+    </record>
+</odoo>
