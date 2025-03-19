@@ -22,7 +22,7 @@ This module is actively developed and open to improvements. Contributions, feedb
 
 1. **Product Loss Page in Sales Order**  
 
-   ![Product Loss Page](./static/description/product_loss_page.png)
+   ![Product Loss Page](./static/description/sale_order_product_loss_page.png)
 
 2. **Product Loss Page in Customer Invoice**  
 
